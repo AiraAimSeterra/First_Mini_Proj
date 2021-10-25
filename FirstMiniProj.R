@@ -9,7 +9,7 @@
 setwd("C:/Users/Aim/Desktop")
 
 
-## Creating a Function "i"pollutantMean" 
+## Creating a Function "pollutantMean" 
 pollutantMean <- function(directory, pollutant, id= 1:332){
   
   ## Listing the files in the directory
